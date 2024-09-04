@@ -1,0 +1,13 @@
+body{
+    background-color: cadetblue;
+    font-size: 18px;
+}
+h1{
+    font-size: 48px;
+    color: cornsilk;
+}
+p{
+    border: 1px solid;
+    padding:5px;
+}
+
